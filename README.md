@@ -36,3 +36,4 @@ $ npm run build
 
 
 #Sample backend api
+https://github.com/mdhanju/strongloop-sample-api
